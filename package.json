@@ -1,8 +1,9 @@
 {
   "name": "hexo-filter-mermaid-tag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A hexo plugin that covert '``` mermaid' to '<pre class=\"mermaid\">'.",
   "main": "index.js",
   "author": "Hanai",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "hanai/hexo-filter-mermaid-tag"
 }
