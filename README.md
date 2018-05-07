@@ -18,3 +18,7 @@ You can enable this plugin in _config.yml.
 mermaid:
   enable: true
 ```
+
+## License
+
+MIT
